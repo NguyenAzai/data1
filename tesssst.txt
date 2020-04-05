@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 Cộng hòa xã hội chủ nghĩa Việt Nam
 Độc lập - Tự do - Hạnh phúc
 BÁO CÁO ĐỀ XUẤT
 I. Tình hình
+=======
+<<<<<<< HEAD
+NGuyễn Xuân Cảnh
+Cao nguyễn
+dakshdkas
+bhdashdk
+=======
+>>>>>>> parent of 112d488... adđ file
+>>>>>>> parent of 694557c... cảnh đổi
